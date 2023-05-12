@@ -1,0 +1,38 @@
+body {background-color: rgb(204, 149, 204);
+    /*muda a cor de fundo*/
+}
+
+h1 {color:rgb(170, 219, 91); /*cor do texto/ titulo*/
+    text-align: center; /*alinha o texto e centraliza*/
+}
+
+p { 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+}
+
+.Texto /*uso para chamar uma classe*/ {color: rgb(107, 132, 63); 
+}
+
+#Titulo /* uso para chamar um ID*/ {color: aqua;
+}
+
+a {
+    text-decoration: none; /*remove a formataçao padrao da tag*/
+    font-size: 45px; /*muda o tamanho do texto*/
+    background-color: rgb(190, 195, 51);
+    border-radius: 9px; /*arredonda a borda*/
+    border-color: black; /*cor da borda*/
+    border-style:groove; /*estilo da borda*/
+    border-width: 2px; /*largura da borda*/
+    padding: 5px 10px;
+}
+img {
+    width: 800px;
+    height: auto;
+
+} 
+div { text-align:center;
+}
+
+

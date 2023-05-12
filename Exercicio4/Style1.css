@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(255, 222, 222);
+}
+
+img { border-radius: 5%;
+    background-color: rgba(52, 43, 43, 0);
+    width: 300px;
+    height: auto;
+    text-align:left
+}
+.tube {
+    background-color: rgb(20, 19, 19);
+    text-align: center;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+}
+
+.imagens-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-style: solid;
+border-color: black;
+}
+.imagens-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-style:solid
+
+}
+.imagens-3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-style:solid
+
+}

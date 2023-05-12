@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: rgb(238, 165, 217);
+}
+div {
+    border-radius: 10%;
+    border-style: inset;
+    background-color: rgb(255, 255, 255);
+}
+img {
+    border-radius: 10%;
+}

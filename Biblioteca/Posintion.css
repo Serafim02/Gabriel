@@ -1,0 +1,16 @@
+body {
+    height: 300vh;
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;
+}
+.box {
+    top: 8vh;
+    position:sticky;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(43, 226, 208);
+}
