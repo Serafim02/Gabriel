@@ -1,0 +1,23 @@
+body{
+background-color: rgba(150, 107, 82, 0.603);
+height: 400vh;
+}
+.container{
+    background-color: rgba(154, 108, 81, 0);
+    height: 400px;
+    width: 1456px;
+}
+.img1 {
+    top: 8px;
+    height: 250px;
+    width: 1450px;
+    justify-content: center;
+    display: flex;
+    position: sticky;
+    border-style: groove;
+    background-color: rgba(255, 218, 218, 0.84);
+    border-color: rgb(0, 0, 0);
+}
+.titulo1 {
+    text-align: center;
+}

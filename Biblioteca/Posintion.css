@@ -9,7 +9,7 @@ body {
 }
 .box {
     top: 8vh;
-    position:sticky;
+    position: static;
     width: 200px;
     height: 200px;
     background-color: rgb(43, 226, 208);
